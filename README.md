@@ -6,6 +6,7 @@ iOS无感,支持13-26，备忘录，相册，助记词。WhatsApp和Telegram可�
 频道：@c2ios
 群组：@iosc2c
 双向机器人：@c2iosbot
+
 版本支持：
 
 IOS13
